@@ -11,6 +11,9 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        uiText: "#2B2D42",
+        uiBG: "#8D99AE",
+        uiAlert: "#D90429",
       },
     },
   },
